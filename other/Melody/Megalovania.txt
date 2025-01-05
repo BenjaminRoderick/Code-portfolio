@@ -1,0 +1,83 @@
+Megalovania
+Sans
+0.14 D 3 NATURAL true
+0.02 R
+0.14 D 4 NATURAL false
+0.02 R
+0.14 D 5 NATURAL false
+0.18 R
+0.14 A 4 NATURAL false
+0.34 R
+0.14 G 4 SHARP false
+0.18 R
+0.14 G 4 NATURAL false
+0.18 R
+0.30 F 4 NATURAL false
+0.02 R
+0.14 D 4 NATURAL false
+0.02 R
+0.14 F 4 NATURAL false
+0.02 R
+0.14 G 4 NATURAL false
+0.02 R
+0.14 C 4 NATURAL false
+0.02 R
+0.14 C 4 NATURAL false
+0.02 R
+0.14 D 5 NATURAL false
+0.18 R
+0.14 A 4 NATURAL false
+0.34 R
+0.14 G 4 SHARP false
+0.18 R
+0.14 G 4 NATURAL false
+0.18 R
+0.30 F 4 NATURAL false
+0.02 R
+0.14 D 4 NATURAL false
+0.02 R
+0.14 F 4 NATURAL false
+0.02 R
+0.14 G 4 NATURAL false
+0.02 R
+0.14 B 3 NATURAL false
+0.02 R
+0.14 B 3 NATURAL false
+0.02 R
+0.14 D 5 NATURAL false
+0.18 R
+0.14 A 4 NATURAL false
+0.34 R
+0.14 G 4 SHARP false
+0.18 R
+0.14 G 4 NATURAL false
+0.18 R
+0.30 F 4 NATURAL false
+0.02 R
+0.14 D 4 NATURAL false
+0.02 R
+0.14 F 4 NATURAL false
+0.02 R
+0.14 G 4 NATURAL false
+0.02 R
+0.14 A 3 SHARP false
+0.02 R
+0.14 A 3 SHARP false
+0.02 R
+0.14 D 5 NATURAL false
+0.18 R
+0.14 A 4 NATURAL false
+0.34 R
+0.14 G 4 SHARP false
+0.18 R
+0.14 G 4 NATURAL false
+0.18 R
+0.30 F 4 NATURAL false
+0.02 R
+0.14 D 4 NATURAL false
+0.02 R
+0.14 F 4 NATURAL false
+0.02 R
+0.14 G 4 NATURAL false
+0.02 R 4 NATURAL true
+0.5 D 3 NATURAL false

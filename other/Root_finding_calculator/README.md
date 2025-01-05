@@ -1,0 +1,5 @@
+This was a personal interest project I have worked on over the years that I began due to the fact that the topic sits directly in the middle of my two greatest interests: mathematics and computer science.
+
+It started out as a simple calculator program that I added a root finding algorithm to. I then researched many different root finding algorithms used in real-world computer science applications and eventually settled on Ridder's method: a well known and very effective method for finding a single real root of any function, not just a polynomial.
+
+During my research, I stumbled upon the Durand-Kerner root finding method: an algorithm that uses fixed-point iteration to simultaneousy compute all of the roots of a function, complex roots included. I very quickly decided to implement it as well, since I also love exploring complex numbers and their concrete applications.
