@@ -1,0 +1,10 @@
+grep -E "^.{15}2020"
+grep -E "^[^,]*[,].{6}2020"
+grep -E "^[^,]*[,].{6}2020" nyc_311_limit.csv > filtered.csv
+
+python calls:
+python borough_complaints.py -i test.csv -s 00/00/0000 -e 00/00/0000
+
+python solution_code_A4.py -i filtered.csv -s 2020-01-01 -e 2020-02-28 -o complaints_jan_feb_2020.csv
+
+python solution_code_A4.py -i filtered.csv -s 2020-06-01 -e 2020-07-31 -o complaints_jun_jul_2020.csv

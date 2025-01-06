@@ -1,0 +1,28 @@
+descriptor
+Banging/Pounding                                                           3
+Car/Truck Horn                                                             2
+Car/Truck Music                                                            2
+Engine Idling                                                              1
+Loud Music/Party                                                           5
+Loud Talking                                                               5
+Loud Television                                                            3
+NYPD                                                                       1
+News Gathering                                                             1
+Noise, Barking Dog (NR5)                                                   1
+Noise, Ice Cream Truck (NR4)                                               1
+Noise, Other Animals (NR6)                                                 1
+Noise:  lawn care equipment (NCL)                                          1
+Noise: Alarms (NR3)                                                        1
+Noise: Boat(Engine,Music,Etc) (NR10)                                       1
+Noise: Construction Before/After Hours (NM1)                               1
+Noise: Construction Equipment (NC1)                                        1
+Noise: Jack Hammering (NC2)                                                1
+Noise: Loud Music From Siebel System - For Dep Internal Use Only (NP21)    1
+Noise: Loud Music/Daytime (Mark Date And Time) (NN1)                       1
+Noise: Manufacturing Noise (NK1)                                           1
+Noise: Other Noise Sources (Use Comments) (NZZ)                            1
+Noise: Private Carting Noise (NQ1)                                         1
+Noise: air condition/ventilation equipment (NV1)                           1
+Noise: lawn care equipment (NCL)                                           1
+Other                                                                      1
+Name: complaint_type, dtype: int64
