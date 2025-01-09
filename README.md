@@ -14,6 +14,6 @@ Here, I've collected several coding projects that I worked on either for school 
 
 ## Site map
 - **data_science**: This directory contains several data science projects.
-    - **NYC_citizen_complaints**: An exploration of complaints from residents of New York city.
+    - **NYC_citizen_complaints**: An exploration of complaints from residents of New York City.
     - **trump_media_coverage**: A study of how president-elect Donald Trump was covered by North American news sources in the time before and after the 2024 presidential election.
 - **other**: Various coding projects in languages such as C, C#, Java, Python
