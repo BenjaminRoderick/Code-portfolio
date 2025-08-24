@@ -1,3 +1,5 @@
+[link to report PDF](https://github.com/BenjaminRoderick/Code-portfolio/tree/main/data_science/trump_media_coverage/project_report.pdf);
+
 # La couverture de Donald Trump dans les médias Nord-Américains
 
 ## Une brève description
