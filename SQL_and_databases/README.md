@@ -1,4 +1,4 @@
-[link to documentation PDF](https://docs.google.com/viewer?url=https://github.com/BenjaminRoderick/Code-portfolio/blob/main/SQL_and_databases/documentation.pdf)
+[link to documentation PDF](https://github.com/BenjaminRoderick/Code-portfolio/blob/main/SQL_and_databases/documentation.pdf)
 
 # ER diagram of the DB // diagramme ER de la BD
 ![ER_diagram](https://github.com/BenjaminRoderick/Code-portfolio/blob/main/SQL_and_databases/images/relational_schema.png)
