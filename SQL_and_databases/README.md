@@ -11,7 +11,7 @@ Cette page GitHub contient le code que mon équipe et moi avons utilisé pour co
 2. Un programme Java qui permet d'intéragir avec la BD par le biais d'une interface de ligne de commande.
 
 # A quick description of the project
-This repository contains the code that my team and I used to create a simple database management system for a fictitious social media company. Our concept was to create a social networking site that aims to connect students of all educational levels to tutors and other academic ressources. The project was built to work in a DB2 server environment.
+This repository contains the code that my team and I used to create a simple database management system for a fictitious social media company. Our concept was to create a social networking site that aims to connect students of all educational levels to tutors and other academic resources. The project was built to work in a DB2 server environment.
 
 ## Contents
 1.  Scripts to automate simple and certain complex queries.
