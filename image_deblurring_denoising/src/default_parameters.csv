@@ -1,0 +1,13 @@
+max_iter, 500
+kernel_size, 7
+sigma, 18
+noise_density, 0.5
+mu, 10
+resize_factor, 1
+rho, 1
+t, 0.7
+s, 150
+gamma, 1
+noise_type, s&p
+angle, 0
+alpha, 0.5
