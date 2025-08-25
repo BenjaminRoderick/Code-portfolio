@@ -1,4 +1,4 @@
-# Image deblurring and de-noising using convex optimisation
+# Image De-blurring and De-noising using Convex Optimization
 
 ## Une brève description du projet
 Le but du projet état d'élaborer un programme informatique pour résoudre le "non-blind image deblurring problem". Ce problème consiste de prendre une image floue et, conaissant le type de distortion qui y a été appliqué (que l'on nomme "kernel"), on tente de reconstruire l'image originale.
