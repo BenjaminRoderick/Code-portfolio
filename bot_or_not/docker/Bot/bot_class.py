@@ -8,7 +8,6 @@ from random import randrange
 
 class User:
     def __init__(self, path, client):
-        # TODO MAKE IT SO THAT GENERATING POST TEXT WORKS
         self.generate_tweets = False
 
         self.client = client

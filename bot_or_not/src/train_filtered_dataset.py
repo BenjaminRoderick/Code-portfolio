@@ -44,38 +44,6 @@ def main():
         tokenizer_name=MODEL_NAME
     )
     embedding.to(device)
-    '''
-    model_found = False
-    for filename in os.listdir(outpath):
-        if filename.endswith('.pt') and filename.startswith('cnn_qwen'):
-            model_disc = conv_neural.discriminator(embedding_dim=EMB_DIM).to(device)
-            model_disc.load_state_dict(torch.load(outpath + filename, weights_only=True))
-            model_found = True
-            print(f'Model loaded from file: {filename}\n')
-            break
-
-    if not model_found:
-        print(f'No model found, training a new model and saving it to:\n{outpath}\n')
-        tokenized_train_text_padded = tokenize_text(train, tokenizer, pad_data=True)
-        tokenized_test_text_padded = tokenize_text(test, tokenizer, pad_data=True)
-
-        model_disc = conv_neural.train_full(
-            data=tokenized_train_text_padded['input_ids'],
-            embedding=embedding,
-            embedding_dim=EMB_DIM,
-            num_epochs=2,
-            batch_size=128,
-            device=device,
-            outpath=outpath,
-            num_filters_list=[EMB_DIM]*3,#this value is also used in the RNN so update it there too if changed
-            kernel_sizes=[3,4,5],
-            dropout=0.5,
-            save_file='cnn_qwen_1'
-        )
-        total_sim = conv_neural.test_cnn(tokenized_test_text_padded['input_ids'], embedding, model_disc.cnn, device)
-        print(f'Average cosine similarity: {total_sim}')
-    model_disc.eval()
-    '''
 
     model_found = False
     temp_cnn = conv_neural.conv_neural_network(
