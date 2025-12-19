@@ -15,9 +15,12 @@ J'ai sauvegardé sur ce site quelques projets de programmation sur lequels j'ai 
 Here, I've collected several coding projects that I worked on either for school or for my own interests.
 
 ## Site map
+- [**soft_thinking**](https://github.com/BenjaminRoderick/Code-portfolio/blob/main/soft_thinking/continuous_chain-of-thought.pdf): Exploring the effects of token embedding superposition in LLM COT.
+- [**Bot-or-Not**](https://github.com/BenjaminRoderick/Code-portfolio/blob/main/bot_or_not/bot_or_not.pdf): Creating LLM-enabled Social Media Bots and neural network-based detectors to catch them in a competion environment.
+- [**PolarPy**](https://github.com/ComplexData-MILA/PolarPy/tree/text_pipeline) (separate repository): A Python package that provides a pipeline and pre-built tools to assist the evaluation of political polarization in large textual datasets.
 - **SQL_and_databases**: A database management system for a social networking site.
 - **image_deblurring_denoising**: A program for solving the "non-blind image deblurring" problem.
-- **data_science**: This directory contains several data science projects.
+- [**data_science**](https://github.com/BenjaminRoderick/Code-portfolio/tree/main/data_science): This directory contains several data science projects.
     - **NYC_citizen_complaints**: An exploration of complaints from residents of New York City.
     - **trump_media_coverage**: A study of how president-elect Donald Trump was covered by North American news sources in the time before and after the 2024 presidential election.
 - **other**: Various coding projects in languages such as C, C#, Java, Python

@@ -1,0 +1,12 @@
+.virtual_documents/
+.ipynb_checkpoints/
+anaconda_projects/
+__pycache__/
+keys/
+bot_dataset/
+
+*.zip
+run.log
+
+*.pth
+*.pt

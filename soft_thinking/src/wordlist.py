@@ -1,0 +1,8 @@
+animals = ["cat", "dog", "lion", "bear", "wolf", "fox", "cow", "pig", "horse", "deer", "mouse", "rat", "rabbit", "monkey", "snake", "frog", "duck", "hawk", "fish", "owl"]
+colors = ["red", "blue", "green", "yellow", "orange", "purple", "pink", "brown", "black", "white", "gray", "cyan", "gold", "silver", "cream", "tan", "amber", "azure", "rose", "ruby"]
+verbs = ["run", "walk", "jump", "sit", "stand", "sleep", "eat", "drink", "read", "write", "open", "close", "listen", "watch", "play", "move", "stop", "go", "come", "think"]
+geo_objects = ["circle", "square", "triangle", "rectangle", "oval", "cube", "cone", "sphere", "ellipse", "line", "curve", "ring", "dot", "cross", "loop", "polygon", "point", "plane", "edge", "angle"]
+body_parts = ["head", "hand", "arm", "leg", "foot", "eye", "ear", "mouth", "back", "neck", "finger", "chest", "hip", "hair", "skin", "face", "throat", "brain", "heart", "lung"]
+adjectives = ["good", "bad", "new", "old", "big", "small", "long", "short", "high", "low", "wide", "deep", "hot", "cold", "dark", "light", "soft", "hard", "fast", "slow"]
+pronouns = ["I", "you", "he", "she", "it", "we", "they", "me", "him", "her", "us", "them", "mine", "his", "its", "ours", "this", "that", "these", "those"]
+p_cs = ["of", "in", "on", "at", "to", "for", "from", "with", "by", "up", "down", "out", "over", "and", "or", "but", "so", "if", "than", "as"]

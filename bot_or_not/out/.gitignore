@@ -1,0 +1,10 @@
+api_outputs/
+*_responses/
+
+gridsearch_results/
+
+saved_models/
+seved_outputs/
+*.pt
+*.pth
+*.model

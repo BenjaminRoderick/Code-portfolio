@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.virtual_documents/
+.vscode/
+anaconda_projects/
+models/
+__pycache__/
+
+test*.py
