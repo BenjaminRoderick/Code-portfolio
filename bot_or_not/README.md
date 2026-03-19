@@ -9,4 +9,6 @@
 2. > python ./docker/Bot/test_bot.py
 
 ### Bot Detector
-1. Simply run > python ./src/train_filtered_dataset.py
+Simply run:
+
+  > python ./src/train_filtered_dataset.py
